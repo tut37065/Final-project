@@ -1,0 +1,44 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+GeoHunter or Atlas Quest
+
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+My project is an interactive activity designed to help users locate and identify their country on a map and other countries that are associated with them. 
+
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My project will be an interactive and educational software program for geography exploration. Its primary function is to allow the users to locate their country or other places on a world map. My project will include a basic identification mode where the user simply searches for and mark their country, and an advanced challenge mode where users race against time to find specific locations or complete geography-based puzzles. It will also offer a guided learning mode with facts and trivia about countries, continents, and landmarks as users explore the map.
+
+The user interface will be intuitive, with vibrant graphics and animations to make the experience visually appealing. It will include interactive tools like zooming in to see detailed maps, highlighting borders and major cities. Execution will involve developing the software using programming languages either Python or JavaScript.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome for my project will be the successful creation of an interactive platform that enables users to identify locations on a map, provides engaging educational content about geography, and incorporates at least one gamified feature, such as timed challenges or trivia.
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+
+The designing of the map interfaces and implements the basic feature of locating a country on the map. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Creating navigation tools like zoom and highlight options. And incorporate trivia and facts about countries to establish the educational aspect early on.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+My next steps should focus on building the core functionality of my project. Also learning the technical skills necessary for developing an interactive map interface. This may involve reusing the code from the Irma py to create the map. Researching geographic data structures, such as how countries are represented on digital maps, their borders, and metadata. Study best practices for integrating educational features, such as trivia and fact-based learning modules. Also using the multiplayer code from Pig to create timed challenges or multiplayer functions.  
